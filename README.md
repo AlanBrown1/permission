@@ -1,5 +1,5 @@
 # permission
-a flexible, visual permission system developed independently without Spring Security and Apache Shiro.
+A flexible, visual permission system developed independently without Spring Security and Apache Shiro.
 
 ## Brief intro
 This is an enterprise permission system, with flexible, visual, fine-grained features without using any existing mature permission system like Spring Security and Apache Shiro.
